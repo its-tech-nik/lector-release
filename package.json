@@ -1,6 +1,6 @@
 {
   "name": "@unriddle-ai/lector",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.0",
   "description": "Headless PDF viewer for React",
   "author": "andrewdr (https://github.com/andrewdoro)",
   "license": "MIT",
@@ -58,7 +58,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/its-tech-nik/lector-release.git"
+    "url": "git+https://github.com/its-tech-nik/lector-release.git"
   },
   "bugs": {
     "url": "https://github.com/unriddle-ai/lector/issues"
