@@ -59,8 +59,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unriddle-ai/lector.git",
-    "directory": "packages/nuqs"
+    "url": "https://github.com/its-tech-nik/lector-release.git"
   },
   "bugs": {
     "url": "https://github.com/unriddle-ai/lector/issues"
